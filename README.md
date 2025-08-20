@@ -1,108 +1,147 @@
-<!-- HEADER -->
-<h1 align="center">👋 Hi, I'm Aditya Mohan</h1>
+# 👋 Hi, I'm Aditya Mohan  
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=4E9F3D&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Cloud+%26+DevOps+Learner;Tech+Explorer+%7C+Open-Source+Contributor" alt="Typing Animation">
-</p>
-
-<p align="center">
-  <a href="https://adityamohan.tech" target="_blank"><b>🌐 Portfolio</b></a> •
-  <a href="https://adityamohan.info" target="_blank"><b>📄 Resume</b></a> •
-  <a href="https://linkedin.com/in/aditya-mohan-cse" target="_blank"><b>💼 LinkedIn</b></a> •
-  <a href="mailto:adityamohan.cse@gmail.com"><b>📧 Email</b></a>
-</p>
+💻 A passionate developer & tech enthusiast with a focus on building modern applications, secure systems, and scalable solutions.  
+🚀 Exploring **AI, Cybersecurity, and Cloud Computing** while continuously improving my problem-solving and development skills.  
 
 ---
 
-## 👨‍💻 About Me
-I'm a **B.Tech Computer Science & Engineering student** (RISU × Google) from **RCET Bhilai**, currently exploring **Full-Stack Development, Cybersecurity, AI/ML, Cloud & DevOps**.  
-
-I focus on building **secure, scalable, and impactful solutions**, and I enjoy contributing to **open-source projects** while actively participating in **tech communities**.  
-
----
-
-## 🚀 Highlights
-- **B.Tech CSE** (RISU × Google)  
-- **Cybersecurity Certification** – IIT Guwahati  
-- Campus Ambassador: **E-Cell IIT Bombay**, **Unstop**, **Internshala**  
-- Skilled in **Cybersecurity, AI/ML, Full-Stack Development**  
-- Open to **collaborations, internships & research opportunities**
+## 🔥 Highlights  
+- 🎓 B.Tech in **Computer Science & Engineering** (RISU × Google)  
+- 🛡 Certified in **Cybersecurity & Advanced Computing (IIT Guwahati)**  
+- ☁ Exploring **AI, Cloud & Full-Stack Development**  
+- 📊 Passionate about **building secure, scalable & user-friendly apps**  
+- 🌟 Open to **collaborations, internships & research projects**  
 
 ---
 
-## 🎓 Education
+## 📂 My Repositories  
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/2/29/IIT_Guwahati_Logo.svg" height="70" alt="IIT Guwahati"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://i.postimg.cc/4dB6S7B3/risu-logo.png" height="70" alt="RISU Logo"/>
-</p>
-
-- **Indian Institute of Technology (IIT) Guwahati** – Cybersecurity & Advanced Computing Certifications  
-- **Rungta International Skill University (RISU) × Google** – B.Tech in Computer Science & Engineering (CSE)  
-- **Rungta College of Engineering & Technology (RCET), Bhilai** – Academic Institute  
-
----
-
-## 📂 Repositories Overview
-
-🔹 *Joined GitHub last month*  
-🔹 *Actively building and maintaining multiple projects*  
-
-- [adityamohan-cse](https://github.com/adityamohan-cse/adityamohan-cse)  
+- [Profile Repo](https://github.com/adityamohan-cse/adityamohan-cse)  
 - [Cash-Counter](https://github.com/adityamohan-cse/Cash-Counter)  
 - [CSP-Customer-Management](https://github.com/adityamohan-cse/CSP-Customer-Management)  
 - [CSP-Cash-Management](https://github.com/adityamohan-cse/CSP-Cash-Management)  
-- Btech-Study-Center-Online *(Private)*  
-- Study-Center *(Private)*  
-- Aditya-Mohan-Portfolio *(Private)*  
+- [Btech-Study-Center-Online](#) (Private)  
+- [Study-Center](#) (Private)  
+- [Aditya-Mohan-Portfolio](#) (Private)  
 
 ---
 
-## 🛠️ Tech Stack
+## 🎓 Education  
 
-**Languages**  
-<img src="https://skillicons.dev/icons?i=python,java,cpp,typescript,javascript,c,cs,go" />
+### 🏫 Indian Institute of Technology (IIT) Guwahati  
+<img src="https://upload.wikimedia.org/wikipedia/en/6/62/IIT_Guwahati_Logo.svg" alt="IIT Guwahati Logo" width="90"/>  
 
-**Web & Mobile**  
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,tailwind,flutter,androidstudio,kotlin" />
+**Cyber Security Certification – Advanced Computing**  
+📍 *Guwahati, Assam, India*  
 
-**Databases & Cloud**  
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,oracle,aws,gcp,azure,firebase,docker,linux" />
+Cybersecurity program by IIT Guwahati with a focus on secure coding, system design, cryptography, ethical hacking, penetration testing, network defense, and real-world threat mitigation.  
 
-**Design & Tools**  
-<img src="https://skillicons.dev/icons?i=figma,photoshop,git" />
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityamohan-cse&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityamohan-cse&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamohan-cse&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+**Key Courses:**  
+- Ethical Hacking  
+- Cloud Security  
+- Malware Analysis  
+- Network Security  
+- Software Development Security  
 
 ---
 
-## 🌟 Featured Projects
-- **[Portfolio Website](https://adityamohan.tech)** – Personal portfolio using **Next.js + TailwindCSS**  
-- **AI-Powered Student Management System** *(Coming Soon)*  
-- **Cybersecurity Tools & Scripts** *(In Progress)*  
+### 🏫 Rungta International Skill University (RISU) × Google  
+<img src="https://risu.ac.in/wp-content/uploads/2022/05/cropped-RISU-Logo.png" alt="RISU Logo" width="110"/>  
+
+**B.Tech in Computer Science & Engineering (CSE)**  
+📍 *Rungta College of Engineering & Technology (RCET), Bhilai*  
+
+Intensive program focused on practical software development skills, including web frameworks, API integration, and database management.  
+
+**Key Courses:**  
+- Web Development Fundamentals  
+- Backend with Node.js  
+- Database Design (SQL/NoSQL)  
+- API Development  
+- Version Control with Git  
 
 ---
 
-## 🤝 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/aditya-mohan-cse" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-  <a href="https://twitter.com/adityamohan_cse" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
-  <a href="https://instagram.com/adityamohan.cse" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
-  <a href="mailto:adityamohan.cse@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
-</p>
+### 🏫 Bihar School Examination Board (BSEB)  
+<img src="https://upload.wikimedia.org/wikipedia/en/8/88/Bihar_School_Examination_Board_logo.png" alt="BSEB Logo" width="90"/>  
+
+**Higher Secondary Education (Class 12)**  
+📍 *Anugrah Narayan Singh College, Barh*  
+
+Completed higher secondary education with specialization in Physics, Chemistry, and Mathematics.  
+
+**Key Courses:**  
+- Mathematics  
+- Physics  
+- Chemistry  
+- English  
+- Hindi  
 
 ---
 
-> ⭐ *"Code is not just about solving problems — it's about crafting solutions that inspire and create impact."*  
+### 🏫 Central Board of Secondary Education (CBSE)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Central_Board_of_Secondary_Education_logo.png" alt="CBSE Logo" width="90"/>  
+
+**Secondary Education (Class 10)**  
+📍 *St. Paul’s English School, Harnaut*  
+
+Successfully completed Class 10 under the CBSE curriculum with a strong academic foundation.  
+
+**Key Courses:**  
+- Mathematics  
+- Science  
+- English  
+- Hindi  
+- Social Science  
+
+---
+
+## 🏅 Certifications & Credentials  
+
+Professional certifications that validate my technical expertise and commitment to continuous learning  
+
+---
+
+### 🌐 Google Cloud × Simplilearn  
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Cloud_logo.svg" alt="Google Cloud Logo" width="80"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/simplilearn.svg" alt="Simplilearn Logo" width="120"/>  
+
+**Foundational | Active**  
+**Introduction to Generative AI Studio**  
+📅 *July 2025*  
+
+Successfully completed an online course on Generative AI Studio, demonstrating initiative and commitment to deepening skills in AI.  
+
+**Skills Validated:**  
+- Generative AI  
+- AI Studio  
+- Machine Learning  
+- Google Cloud  
+
+**Credential ID:** `8578628`  
+🔗 [Verify Certificate](#)  
+
+---
+
+### 🏢 Infosys Springboard  
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Infosys_logo.svg" alt="Infosys Logo" width="120"/>  
+
+**Foundational | Active**  
+**Infosys Springboard Course Completion Certificate**  
+
+Successfully completed Infosys Springboard courses, demonstrating initiative and commitment to developing skills with Infosys.  
+
+**Skills Validated:**  
+- Email Writing Skills  
+- Python Foundation Certification  
+- Basics of Python  
+
+🔗 [Verify Certificate](#)  
+
+---
+
+## 📬 Connect With Me  
+
+🌐 [GitHub](https://github.com/adityamohan-cse)  
+💼 [LinkedIn](#)  
+📧 adityamohan.cse@example.com  
