@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me  
+### 🚀 About Me  
 I'm a **B.Tech Computer Science & Engineering student** (RISU × Google) from **Rungta International Skill University, Bhilai**, currently exploring **Full-Stack Development, Cybersecurity, AI/ML, Cloud & DevOps**.  
 
 I focus on building **secure, scalable, and impactful solutions**, and I enjoy contributing to **open-source projects** while actively participating in **tech communities**.  
