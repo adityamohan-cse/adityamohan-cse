@@ -18,13 +18,12 @@
 I'm a **B.Tech Computer Science & Engineering student** (RISU × Google) from **Rungta International Skill University, Bhilai**, currently exploring **Full-Stack Development, Cybersecurity, AI/ML, Cloud & DevOps**.  
 
 I focus on building **secure, scalable, and impactful solutions**, and I enjoy contributing to **open-source projects** while actively participating in **tech communities**.  
-💻 Passionate **Computer Science Engineer** with interest in **Cybersecurity, Cloud, and Full-Stack Development**.  
-🎯 Always learning and building projects.  
-🌱 Currently diving into **DevOps & Secure Systems**.  
-- 🎓 Currently pursuing **B.Tech in CSE** (RISU x Google)  
+### 🌟 Highlights
+- 💻 Passionate **Computer Science Engineer** with interest in **Cybersecurity, Cloud, and Full-Stack Development**.
+- 💼 Campus Ambassador at **E-Cell, IIT Bombay | Unstop | Internshala**
 - 🏫 Certification Program in **Cybersecurity, IIT Guwahati**  
-- 💼 Campus Ambassador at **E-Cell, IIT Bombay | Unstop | Internshala**  
-- 🔐 Passionate about **Cybersecurity, AI/ML, and Full-Stack Development**  
+- 🎯 Always learning and building projects.  
+- 🌱 Currently diving into **DevOps & Secure Systems**.   
 - 🌍 Open to **collaborations, internships, and research opportunities**  
 
 ---
