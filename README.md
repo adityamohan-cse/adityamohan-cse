@@ -98,15 +98,6 @@ I focus on building **secure, scalable, and impactful solutions**, and I enjoy c
 
 ---
 
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityamohan-cse&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityamohan-cse&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ## 📫 Connect With Me  
 
 <p align="center">
