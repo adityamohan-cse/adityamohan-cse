@@ -14,57 +14,56 @@
 
 ---
 
-##  About Me
-I'm a **B.Tech Computer Science & Engineering student** (RISU in collaboration with Google) from **RCET Bhilai**, currently exploring the realms of **Full-Stack Development, Cloud Computing, Cybersecurity**, and **AI/ML & DevOps**.  
+## 👨‍💻 About Me
+I'm a **B.Tech Computer Science & Engineering student** (RISU × Google) from **RCET Bhilai**, currently exploring **Full-Stack Development, Cybersecurity, AI/ML, Cloud & DevOps**.  
 
-My journey is about building **secure, scalable, and impactful solutions**, actively contributing to **tech communities**, and growing through **real-world projects and internships**.
+I focus on building **secure, scalable, and impactful solutions**, and I enjoy contributing to **open-source projects** while actively participating in **tech communities**.  
 
 ---
 
-##  Highlights
+## 🚀 Highlights
 - **B.Tech CSE** (RISU × Google)  
 - **Cybersecurity Certification** – IIT Guwahati  
 - Campus Ambassador: **E-Cell IIT Bombay**, **Unstop**, **Internshala**  
 - Skilled in **Cybersecurity, AI/ML, Full-Stack Development**  
-- Always open to **collaborations, internships & research opportunities**
+- Open to **collaborations, internships & research opportunities**
 
 ---
 
-##  Tech Stack
+## 📂 Repositories Overview
 
-**Programming Languages**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,typescript,javascript,c,cs,go" />
-</p>
+🔹 *Joined GitHub last month*  
+🔹 *Actively building and maintaining multiple projects*  
 
-**Web Development**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,tailwind,html,css" />
-</p>
-
-**Databases**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,oracle" />
-</p>
-
-**Cloud & DevOps**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=gcp,aws,azure,firebase,docker,git,linux" />
-</p>
-
-**Mobile & Game Dev**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,unity" />
-</p>
-
-**Design & Automation**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
-</p>
+| Repository | Type | Tech | Last Updated |
+|------------|------|------|--------------|
+| [adityamohan-cse](https://github.com/adityamohan-cse/adityamohan-cse) | Public | Profile Repo | ⏱️ 2 mins ago |
+| [Cash-Counter](https://github.com/adityamohan-cse/Cash-Counter) | Public | Tcl | ⏱️ 36 mins ago |
+| [CSP-Customer-Management](https://github.com/adityamohan-cse/CSP-Customer-Management) | Public | Tcl | ⏱️ 14 hrs ago |
+| [CSP-Cash-Management](https://github.com/adityamohan-cse/CSP-Cash-Management) | Public | Tcl | ⏱️ 14 hrs ago |
+| Btech-Study-Center-Online | Private | TypeScript | ⏱️ Last week |
+| Study-Center | Private | TypeScript | ⏱️ 3 weeks ago |
+| Aditya-Mohan-Portfolio | Private | TypeScript | ⏱️ Last month |
 
 ---
 
-##  GitHub Analytics
+## 🛠️ Tech Stack
+
+**Languages**  
+<img src="https://skillicons.dev/icons?i=python,java,cpp,typescript,javascript,c,cs,go" />
+
+**Web & Mobile**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,tailwind,flutter,androidstudio,kotlin" />
+
+**Databases & Cloud**  
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,oracle,aws,gcp,azure,firebase,docker,linux" />
+
+**Design & Tools**  
+<img src="https://skillicons.dev/icons?i=figma,photoshop,git" />
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityamohan-cse&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -77,22 +76,14 @@ My journey is about building **secure, scalable, and impactful solutions**, acti
 
 ---
 
-##  Featured Projects
-- **[Portfolio Website](https://adityamohan.tech)** – Built using **Next.js + TailwindCSS**  
+## 🌟 Featured Projects
+- **[Portfolio Website](https://adityamohan.tech)** – Personal portfolio using **Next.js + TailwindCSS**  
 - **AI-Powered Student Management System** *(Coming Soon)*  
 - **Cybersecurity Tools & Scripts** *(In Progress)*  
 
 ---
 
-##  Popular Repositories
-- `CSP-Cash-Management` — A Tcl-based cash management solution  
-- `CSP-Customer-Management` — Tcl-based customer management tool  
-- `Cash-Counter` — Tcl project for simulating a cash counter system  
-*(See pinned or trending repos for quick entry points)* :contentReference[oaicite:0]{index=0}
-
----
-
-##  Connect With Me
+## 🤝 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/aditya-mohan-cse" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
   <a href="https://twitter.com/adityamohan_cse" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
@@ -102,5 +93,4 @@ My journey is about building **secure, scalable, and impactful solutions**, acti
 
 ---
 
-> ⭐ _"Code is not just about solving problems — it's about crafting solutions that inspire and create impact."_ 
-
+> ⭐ *"Code is not just about solving problems — it's about crafting solutions that inspire and create impact."*  
