@@ -30,18 +30,7 @@ I focus on building **secure, scalable, and impactful solutions**, and I enjoy c
 - 🎓 **Rajasthan ILD Skills University, Jaipur** – B.Tech in Computer Science Engineering  
 
 ---
----
 
-## 📂 Repositories Overview
-- [Profile Repo](https://github.com/adityamohan-cse/adityamohan-cse)  
-- [Cash-Counter](https://github.com/adityamohan-cse/Cash-Counter)  
-- [CSP-Customer-Management](https://github.com/adityamohan-cse/CSP-Customer-Management)  
-- [CSP-Cash-Management](https://github.com/adityamohan-cse/CSP-Cash-Management)  
-- Btech-Study-Center-Online (Private)  
-- Study-Center (Private)  
-- Aditya-Mohan-Portfolio (Private)  
-
----
 
 ## 🛠️ Tech Stack  
 
@@ -56,6 +45,17 @@ I focus on building **secure, scalable, and impactful solutions**, and I enjoy c
 - 🔹 **[CSP Hisab App](https://github.com/adityamohan-cse/CSP-Hisab-App)** – Tkinter + Excel based cash management app  
 - 🔹 **[Customer Management System](https://github.com/adityamohan-cse/Customer-Management-System)** – SQLite + Tkinter based CRUD system  
 - 🔹 **[Portfolio Website](https://github.com/adityamohan-cse/Portfolio)** – Personal website with HTML, CSS, JS  
+
+---
+
+## 📂 Repositories Overview
+- [Profile Repo](https://github.com/adityamohan-cse/adityamohan-cse)  
+- [Cash-Counter](https://github.com/adityamohan-cse/Cash-Counter)  
+- [CSP-Customer-Management](https://github.com/adityamohan-cse/CSP-Customer-Management)  
+- [CSP-Cash-Management](https://github.com/adityamohan-cse/CSP-Cash-Management)  
+- Btech-Study-Center-Online (Private)  
+- Study-Center (Private)  
+- Aditya-Mohan-Portfolio (Private)  
 
 ---
 
