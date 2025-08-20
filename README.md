@@ -30,6 +30,20 @@ I focus on building **secure, scalable, and impactful solutions**, and I enjoy c
 
 ---
 
+## 🎓 Education
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/2/29/IIT_Guwahati_Logo.svg" height="70" alt="IIT Guwahati"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://i.postimg.cc/4dB6S7B3/risu-logo.png" height="70" alt="RISU Logo"/>
+</p>
+
+- **Indian Institute of Technology (IIT) Guwahati** – Cybersecurity & Advanced Computing Certifications  
+- **Rungta International Skill University (RISU) × Google** – B.Tech in Computer Science & Engineering (CSE)  
+- **Rungta College of Engineering & Technology (RCET), Bhilai** – Academic Institute  
+
+---
+
 ## 📂 Repositories Overview
 
 🔹 *Joined GitHub last month*  
@@ -78,15 +92,6 @@ I focus on building **secure, scalable, and impactful solutions**, and I enjoy c
 - **[Portfolio Website](https://adityamohan.tech)** – Personal portfolio using **Next.js + TailwindCSS**  
 - **AI-Powered Student Management System** *(Coming Soon)*  
 - **Cybersecurity Tools & Scripts** *(In Progress)*  
-
----
-
-## 🎓 Education
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/2/29/IIT_Guwahati_Logo.svg" height="60" alt="IIT Guwahati"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/en/f/f3/Rungta_College_logo.png" height="60" alt="Rungta International Skill University"/>
-</p>
 
 ---
 
