@@ -14,58 +14,57 @@
 
 ---
 
-## 🚀 About Me
-I’m a **B.Tech Computer Science & Engineering student** *(RISU in association with Google)* at **RCET Bhilai**, passionate about building **modern, scalable, and secure digital solutions**.  
+##  About Me
+I'm a **B.Tech Computer Science & Engineering student** (RISU in collaboration with Google) from **RCET Bhilai**, currently exploring the realms of **Full-Stack Development, Cloud Computing, Cybersecurity**, and **AI/ML & DevOps**.  
 
-💡 I specialize in **Full-Stack Development, Cloud Computing, and Cybersecurity**, while continuously exploring **AI/ML & DevOps practices**.  
-🌍 Beyond academics, I contribute to **tech communities**, pursue **industry certifications**, and actively engage in **real-world projects & internships**.  
-
----
-
-## 🌟 Highlights
-- 🎓 **B.Tech CSE** (RISU x Google)  
-- 🏫 Certification Program in **Cybersecurity – IIT Guwahati**  
-- 💼 Campus Ambassador: **E-Cell IIT Bombay | Unstop | Internshala**  
-- 🔐 Passionate about **Cybersecurity, AI/ML, and Full-Stack Development**  
-- 🌍 Open to **collaborations, internships, and research opportunities**  
+My journey is about building **secure, scalable, and impactful solutions**, actively contributing to **tech communities**, and growing through **real-world projects and internships**.
 
 ---
 
-## 🛠️ Tech Stack  
+##  Highlights
+- **B.Tech CSE** (RISU × Google)  
+- **Cybersecurity Certification** – IIT Guwahati  
+- Campus Ambassador: **E-Cell IIT Bombay**, **Unstop**, **Internshala**  
+- Skilled in **Cybersecurity, AI/ML, Full-Stack Development**  
+- Always open to **collaborations, internships & research opportunities**
 
-**💻 Programming Languages**  
-<p>
+---
+
+##  Tech Stack
+
+**Programming Languages**  
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,typescript,javascript,c,cs,go" />
 </p>
 
-**🌐 Web Development**  
-<p>
+**Web Development**  
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,tailwind,html,css" />
 </p>
 
-**🗄️ Databases**  
-<p>
+**Databases**  
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,oracle" />
 </p>
 
-**☁️ Cloud & DevOps**  
-<p>
+**Cloud & DevOps**  
+<p align="left">
   <img src="https://skillicons.dev/icons?i=gcp,aws,azure,firebase,docker,git,linux" />
 </p>
 
-**📱 Mobile & Game Dev**  
-<p>
+**Mobile & Game Dev**  
+<p align="left">
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,unity" />
 </p>
 
-**🎨 Design & Automation**  
-<p>
+**Design & Automation**  
+<p align="left">
   <img src="https://skillicons.dev/icons?i=figma,photoshop" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics  
+##  GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityamohan-cse&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -78,31 +77,30 @@ I’m a **B.Tech Computer Science & Engineering student** *(RISU in association 
 
 ---
 
-## 📌 Featured Projects
-- 🌐 [**Portfolio Website**](https://adityamohan.tech) – Personal portfolio built with **Next.js + TailwindCSS**  
-- 📊 **AI-Powered Student Management System** *(Coming Soon)*  
-- 🛡️ **Cybersecurity Tools & Scripts** *(In Progress)*  
+##  Featured Projects
+- **[Portfolio Website](https://adityamohan.tech)** – Built using **Next.js + TailwindCSS**  
+- **AI-Powered Student Management System** *(Coming Soon)*  
+- **Cybersecurity Tools & Scripts** *(In Progress)*  
 
 ---
 
-## 🌐 Connect With Me
+##  Popular Repositories
+- `CSP-Cash-Management` — A Tcl-based cash management solution  
+- `CSP-Customer-Management` — Tcl-based customer management tool  
+- `Cash-Counter` — Tcl project for simulating a cash counter system  
+*(See pinned or trending repos for quick entry points)* :contentReference[oaicite:0]{index=0}
+
+---
+
+##  Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/aditya-mohan-cse" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-  </a>
-  <a href="https://twitter.com/adityamohan_cse" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="45"/>
-  </a>
-  <a href="https://instagram.com/adityamohan.cse" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
-  </a>
-  <a href="mailto:adityamohan.cse@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
-  </a>
+  <a href="https://linkedin.com/in/aditya-mohan-cse" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <a href="https://twitter.com/adityamohan_cse" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
+  <a href="https://instagram.com/adityamohan.cse" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
+  <a href="mailto:adityamohan.cse@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
 </p>
 
 ---
 
-<p align="center">
-  ⭐ <i>"Code is not just about solving problems — it's about crafting solutions that inspire and create impact."</i> ⭐
-</p>
+> ⭐ _"Code is not just about solving problems — it's about crafting solutions that inspire and create impact."_ 
+
