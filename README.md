@@ -1,103 +1,101 @@
-<h1 align="center">👋 Hi, I'm Aditya Mohan</h1>
-<h3 align="center">Software Developer | Cybersecurity Enthusiast | Tech Explorer</h3>
+<!-- HEADER -->
+<h1 align="center">👋 Hey, I'm Aditya Mohan</h1>
+<h3 align="center">Full-Stack Developer | Cybersecurity Enthusiast | Cloud Learner</h3>
 
 <p align="center">
-  <a href="https://adityamohan.tech" target="_blank">🌐 Portfolio</a> •
-  <a href="https://adityamohan.info" target="_blank">📄 Resume</a> •
-  <a href="https://linkedin.com/in/aditya-mohan-cse" target="_blank">💼 LinkedIn</a> •
-  <a href="mailto:adityamohan.cse@gmail.com">📧 Email</a>
+  <a href="https://adityamohan.tech" target="_blank"><b>🌐 Portfolio</b></a> •
+  <a href="https://adityamohan.info" target="_blank"><b>📄 Resume</b></a> •
+  <a href="https://linkedin.com/in/aditya-mohan-cse" target="_blank"><b>💼 LinkedIn</b></a> •
+  <a href="mailto:adityamohan.cse@gmail.com"><b>📧 Email</b></a>
 </p>
 
 ---
 
+<!-- ABOUT -->
 ### 🚀 About Me
-I’m a **B.Tech Computer Science & Engineering student** (in association with Google) at **Rungta College of Engineering & Technology, Bhilai**, with a passion for building innovative digital solutions.  
+I’m a **B.Tech CSE student (in association with Google)** at **Rungta College of Engineering & Technology, Bhilai**.  
+With a strong interest in **Full-Stack Development, Cloud Computing, and Cybersecurity**, I aim to build **scalable, secure, and impactful digital solutions**.  
 
-💡 I enjoy working on **modern web applications, cloud technologies, and cybersecurity** while continuously learning emerging tools and frameworks.  
-
-Beyond academics, I actively contribute to **tech communities**, pursue **certifications**, and take part in **real-world projects & internships** to expand both my technical and collaborative skills.
-
----
-
-### 🌟 Highlights
-- 🎓 Currently pursuing **B.Tech in CSE** (RISU x Google)  
-- 🏫 Certification Program in **Cybersecurity, IIT Guwahati**  
-- 💼 Campus Ambassador at **E-Cell, IIT Bombay | Unstop | Internshala**  
-- 🔐 Passionate about **Cybersecurity, AI/ML, and Full-Stack Development**  
-- 🌍 Open to **collaborations, internships, and research opportunities**  
+💡 I thrive on learning modern tools, contributing to open-source, and working on real-world projects that push me out of my comfort zone.  
 
 ---
 
-## 🛠️ Tech Stack
+<!-- TECH STACK -->
+## 🛠️ Tech Stack  
 
-### 💻 Programming Languages
+**💻 Programming Languages**  
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,typescript,javascript,c,cs,go" />
 </p>
 
-### 🌐 Web Development
+**🌐 Web Development**  
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="40" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="Tailwind"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,tailwind,html,css" />
 </p>
 
-### 🗄️ Databases
+**🗄️ Databases**  
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" alt="Oracle"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,oracle" />
 </p>
 
-### ☁️ Cloud & DevOps
+**☁️ Cloud & DevOps**  
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="Google Cloud"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=gcp,aws,azure,firebase,docker,git,linux" />
 </p>
 
-### 📱 Mobile & Game Dev
+**📱 Mobile & Game Dev**  
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" alt="Android"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" alt="Kotlin"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" alt="Unity"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,unity" />
+</p>
+
+**🎨 Design & Automation**  
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
 </p>
 
 ---
 
+<!-- GITHUB STATS -->
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityamohan-cse&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityamohan-cse&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamohan-cse&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+<!-- FEATURED PROJECTS -->
 ## 📌 Featured Projects
-- 🌐 [Portfolio Website](https://adityamohan.tech) – Personal portfolio showcasing skills & experience  
+- 🌐 [Portfolio Website](https://adityamohan.tech) – My personal portfolio built with **Next.js + Tailwind**  
 - 📊 AI-Powered Student Management System *(Coming Soon)*  
-- 🛡️ Cybersecurity Tools & Scripts *(In Progress)*  
+- 🔐 Cybersecurity Scripts & Tools *(In Progress)*  
 
 ---
 
-## 📫 Connect With Me
-<p align="left">
+<!-- CONNECT -->
+## 🌐 Connect With Me
+<p align="center">
   <a href="https://linkedin.com/in/aditya-mohan-cse" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
   </a>
   <a href="https://twitter.com/adityamohan_cse" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" alt="Twitter"/>
+    <img src="https://skillicons.dev/icons?i=twitter" width="45"/>
   </a>
   <a href="https://instagram.com/adityamohan.cse" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" alt="Instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
+  </a>
+  <a href="mailto:adityamohan.cse@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
   </a>
 </p>
 
 ---
 
-⭐ *“Code is not just about solving problems—it's about crafting elegant solutions that inspire and create impact.”*
+<p align="center">
+  ⭐ <i>"Code is not just about solving problems — it's about crafting solutions that inspire and create impact."</i> ⭐
+</p>
