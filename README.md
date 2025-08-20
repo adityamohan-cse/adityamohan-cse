@@ -21,6 +21,11 @@ I focus on building **secure, scalable, and impactful solutions**, and I enjoy c
 💻 Passionate **Computer Science Engineer** with interest in **Cybersecurity, Cloud, and Full-Stack Development**.  
 🎯 Always learning and building projects.  
 🌱 Currently diving into **DevOps & Secure Systems**.  
+- 🎓 Currently pursuing **B.Tech in CSE** (RISU x Google)  
+- 🏫 Certification Program in **Cybersecurity, IIT Guwahati**  
+- 💼 Campus Ambassador at **E-Cell, IIT Bombay | Unstop | Internshala**  
+- 🔐 Passionate about **Cybersecurity, AI/ML, and Full-Stack Development**  
+- 🌍 Open to **collaborations, internships, and research opportunities**  
 
 ---
 
@@ -111,5 +116,6 @@ I focus on building **secure, scalable, and impactful solutions**, and I enjoy c
   <a href="https://instagram.com/adityamohan.cse" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
   <a href="mailto:adityamohan.cse@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
 </p>
+---
 
 <p align="center">⭐ "Code is not just about solving problems, it's about creating possibilities." ⭐</p>
