@@ -32,7 +32,10 @@ I focus on building **secure, scalable, and impactful solutions**, and I enjoy c
 ## 🎓 Education  
 
 ### 🏫 Indian Institute of Technology (IIT) Guwahati  
-<img src="https://i.imgur.com/yourlogo.png" width="90">
+<p align="center">
+  <img src="https://i.ibb.co/DYTx40q/github-logo.png" alt="Logo" width="90">
+</p>
+
 **Cyber Security Certification – Advanced Computing**  
 📍 *Guwahati, Assam, India*  
 
