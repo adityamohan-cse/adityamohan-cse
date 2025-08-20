@@ -18,6 +18,7 @@
 I'm a **B.Tech Computer Science & Engineering student** (RISU × Google) from **Rungta International Skill University, Bhilai**, currently exploring **Full-Stack Development, Cybersecurity, AI/ML, Cloud & DevOps**.  
 
 I focus on building **secure, scalable, and impactful solutions**, and I enjoy contributing to **open-source projects** while actively participating in **tech communities**.  
+
 ### 🌟 Highlights
 - 💻 Passionate **Computer Science Engineer** with interest in **Cybersecurity, Cloud, and Full-Stack Development**.
 - 💼 Campus Ambassador at **E-Cell, IIT Bombay | Unstop | Internshala**
@@ -26,15 +27,22 @@ I focus on building **secure, scalable, and impactful solutions**, and I enjoy c
 - 🌱 Currently diving into **DevOps & Secure Systems**.   
 - 🌍 Open to **collaborations, internships, and research opportunities**  
 
----
-
 ## 🎓 Education  
 
-- 🎓 **IIT Guwahati** – Cybersecurity & Cyber Defense (Certification)  
-- 🎓 **Rajasthan ILD Skills University, Jaipur** – B.Tech in Computer Science Engineering  
+-  **IIT Guwahati** – Cybersecurity (Certification)  
+-  **Rungta International Skill University, Bhilai** – B.Tech in Computer Science Engineering  
+-  **Patliputra University, Patna** – Higher Secondary Education (Class 12)
+-  **St. Paul's English School, Harnaut** – Secondary Education (Class 10)
 
 ---
 
+## 📌 Featured Projects  
+
+- 🔹 **[CSP Hisab App](https://github.com/adityamohan-cse/CSP-Hisab-App)** – Tkinter + Excel based cash management app  
+- 🔹 **[Customer Management System](https://github.com/adityamohan-cse/Customer-Management-System)** – SQLite + Tkinter based CRUD system  
+- 🔹 **[Portfolio Website](https://github.com/adityamohan-cse/Portfolio)** – Personal website with HTML, CSS, JS  
+
+---
 
 ## 🛠️ Tech Stack  
 
@@ -69,12 +77,12 @@ I focus on building **secure, scalable, and impactful solutions**, and I enjoy c
 </p>
 
 ---
+## 📜 Certificates  
 
-## 📌 Featured Projects  
-
-- 🔹 **[CSP Hisab App](https://github.com/adityamohan-cse/CSP-Hisab-App)** – Tkinter + Excel based cash management app  
-- 🔹 **[Customer Management System](https://github.com/adityamohan-cse/Customer-Management-System)** – SQLite + Tkinter based CRUD system  
-- 🔹 **[Portfolio Website](https://github.com/adityamohan-cse/Portfolio)** – Personal website with HTML, CSS, JS  
+- AWS Academy Graduate – Cloud Foundations  
+- Google Cybersecurity Fundamentals  
+- IIT Guwahati – Cybersecurity & Defense  
+- Infosys Springboard – Python Programming  
 
 ---
 
@@ -87,16 +95,6 @@ I focus on building **secure, scalable, and impactful solutions**, and I enjoy c
 - Study-Center (Private)  
 - Aditya-Mohan-Portfolio (Private)  
 
----
-
-## 📜 Certificates  
-
-- AWS Academy Graduate – Cloud Foundations  
-- Google Cybersecurity Fundamentals  
-- IIT Guwahati – Cybersecurity & Defense  
-- Infosys Springboard – Python Programming  
-
----
 
 ## 📫 Connect With Me  
 
