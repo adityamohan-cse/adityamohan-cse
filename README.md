@@ -27,7 +27,7 @@ I focus on building **secure, scalable, and impactful solutions**, and I enjoy c
 - 🌱 Currently diving into **DevOps & Secure Systems**.   
 - 🌍 Open to **collaborations, internships, and research opportunities**  
 
-## 🎓 Education  
+### 🎓 Education  
 -  **IIT Guwahati** – Cybersecurity (Certification)  
 -  **Rungta International Skill University, Bhilai** – B.Tech in Computer Science Engineering  
 -  **Patliputra University, Patna** – Higher Secondary Education (Class 12)
