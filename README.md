@@ -1,6 +1,9 @@
 <!-- HEADER -->
-<h1 align="center">👋 Hey, I'm Aditya Mohan</h1>
-<h3 align="center">Full-Stack Developer | Cybersecurity Enthusiast | Cloud Learner</h3>
+<h1 align="center">👋 Hi, I'm Aditya Mohan</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=4E9F3D&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Cloud+%26+DevOps+Learner;Tech+Explorer+%7C+Open-Source+Contributor" alt="Typing Animation">
+</p>
 
 <p align="center">
   <a href="https://adityamohan.tech" target="_blank"><b>🌐 Portfolio</b></a> •
@@ -11,16 +14,23 @@
 
 ---
 
-<!-- ABOUT -->
-### 🚀 About Me
-I’m a **B.Tech CSE student (in association with Google)** at **Rungta College of Engineering & Technology, Bhilai**.  
-With a strong interest in **Full-Stack Development, Cloud Computing, and Cybersecurity**, I aim to build **scalable, secure, and impactful digital solutions**.  
+## 🚀 About Me
+I’m a **B.Tech Computer Science & Engineering student** *(RISU in association with Google)* at **RCET Bhilai**, passionate about building **modern, scalable, and secure digital solutions**.  
 
-💡 I thrive on learning modern tools, contributing to open-source, and working on real-world projects that push me out of my comfort zone.  
+💡 I specialize in **Full-Stack Development, Cloud Computing, and Cybersecurity**, while continuously exploring **AI/ML & DevOps practices**.  
+🌍 Beyond academics, I contribute to **tech communities**, pursue **industry certifications**, and actively engage in **real-world projects & internships**.  
 
 ---
 
-<!-- TECH STACK -->
+## 🌟 Highlights
+- 🎓 **B.Tech CSE** (RISU x Google)  
+- 🏫 Certification Program in **Cybersecurity – IIT Guwahati**  
+- 💼 Campus Ambassador: **E-Cell IIT Bombay | Unstop | Internshala**  
+- 🔐 Passionate about **Cybersecurity, AI/ML, and Full-Stack Development**  
+- 🌍 Open to **collaborations, internships, and research opportunities**  
+
+---
+
 ## 🛠️ Tech Stack  
 
 **💻 Programming Languages**  
@@ -55,8 +65,7 @@ With a strong interest in **Full-Stack Development, Cloud Computing, and Cyberse
 
 ---
 
-<!-- GITHUB STATS -->
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityamohan-cse&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -69,15 +78,13 @@ With a strong interest in **Full-Stack Development, Cloud Computing, and Cyberse
 
 ---
 
-<!-- FEATURED PROJECTS -->
 ## 📌 Featured Projects
-- 🌐 [Portfolio Website](https://adityamohan.tech) – My personal portfolio built with **Next.js + Tailwind**  
-- 📊 AI-Powered Student Management System *(Coming Soon)*  
-- 🔐 Cybersecurity Scripts & Tools *(In Progress)*  
+- 🌐 [**Portfolio Website**](https://adityamohan.tech) – Personal portfolio built with **Next.js + TailwindCSS**  
+- 📊 **AI-Powered Student Management System** *(Coming Soon)*  
+- 🛡️ **Cybersecurity Tools & Scripts** *(In Progress)*  
 
 ---
 
-<!-- CONNECT -->
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/aditya-mohan-cse" target="_blank">
