@@ -111,6 +111,5 @@ I focus on building **secure, scalable, and impactful solutions**, and I enjoy c
   <a href="https://instagram.com/adityamohan.cse" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
   <a href="mailto:adityamohan.cse@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
 </p>
----
 
 <p align="center">⭐ "Code is not just about solving problems, it's about creating possibilities." ⭐</p>
