@@ -12,8 +12,6 @@
   <a href="mailto:adityamohan.cse@gmail.com"><b>📧 Email</b></a>
 </p>
 
----
-
 ### 🚀 About Me  
 I'm a **B.Tech Computer Science & Engineering student** (RISU × Google) from **Rungta International Skill University, Bhilai**, currently exploring **Full-Stack Development, Cybersecurity, AI/ML, Cloud & DevOps**.  
 
