@@ -55,11 +55,6 @@ I focus on building **secure, scalable, and impactful solutions**, and I enjoy c
   <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
 </p>
 
-**🎨 Design & Automation**  
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
-
 ---
 ## 📜 Certificates  
 
