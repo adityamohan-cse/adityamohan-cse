@@ -47,27 +47,12 @@ I focus on building **secure, scalable, and impactful solutions**, and I enjoy c
 
 **💻 Programming Languages**  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,typescript,javascript,c,cs,go" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,c," />
 </p>
 
 **🌐 Web Development**  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,tailwind,html,css" />
-</p>
-
-**🗄️ Databases**  
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,oracle" />
-</p>
-
-**☁️ Cloud & DevOps**  
-<p>
-  <img src="https://skillicons.dev/icons?i=gcp,aws,azure,firebase,docker,git,linux" />
-</p>
-
-**📱 Mobile & Game Dev**  
-<p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,unity" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
 </p>
 
 **🎨 Design & Automation**  
