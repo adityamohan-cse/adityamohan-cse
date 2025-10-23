@@ -72,13 +72,12 @@ I focus on building **secure, scalable, and impactful solutions**, and I enjoy c
 
 **🎨 Design & Automation**  
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
+  <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ---
 ## 📜 Certificates  
 
-- AWS Academy Graduate – Cloud Foundations  
 - Google Cybersecurity Fundamentals  
 - IIT Guwahati – Cybersecurity & Defense  
 - Infosys Springboard – Python Programming  
